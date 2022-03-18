@@ -1,5 +1,6 @@
 ---
 "installing apache"
+"installing php packages"
 "starting and enabling service httpd"
 "updating httpd conf"
 "adding and updaing vhost conf"

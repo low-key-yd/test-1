@@ -3,3 +3,5 @@
 "starting and enabling service httpd"
 "updating httpd conf"
 "adding and updaing vhost conf"
+"creating docroot for vhost"
+"starting and enabling service httpd"
